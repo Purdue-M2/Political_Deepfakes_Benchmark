@@ -1,0 +1,6 @@
+docker build -t ganattribution  .
+
+DATA=/media/ydrive/DATA_SEMAFOR/
+
+docker run   --gpus all   --rm  -v   $DATA:/mnt/ -it   ganattribution   bash
+

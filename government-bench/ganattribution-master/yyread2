@@ -1,0 +1,1 @@
+docker run   --gpus all   --rm  -v   $DATA:/mnt/ -it   ganattribution   bash
