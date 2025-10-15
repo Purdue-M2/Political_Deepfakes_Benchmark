@@ -88,3 +88,11 @@ Most of the code is borrowed from [Forensics-Bench](https://arxiv.org/abs/2503.1
     ```
     python inference.py
     ```
+
+---
+
+### 🌟 Contribute Your Models!
+
+We warmly welcome **more commercial tools** to be added to our benchmark.  
+If you would like us to include your models, please contact 📧 [hu968@purdue.edu](mailto:hu968@purdue.edu).  
+
