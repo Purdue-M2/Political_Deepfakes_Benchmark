@@ -13,7 +13,7 @@ This repository is the official implementation of our paper Benchmarking Wide De
 You can access and download the datasets from the following links:
 
 - **Image and Video Data**: [Link 1](https://purdue0-my.sharepoint.com/:f:/g/personal/lin1785_purdue_edu/EidE546IvUdIsS_3LFCQX3MBGyS6lKtW-XiuHJwnIvpdYw?e=0MVjtJ) | [Link 2](https://purdue0-my.sharepoint.com/:f:/g/personal/lin1785_purdue_edu/EpQPBynMPlJDkdQ05Q-Ej5EBNzoiQIhZgFHLo6cbrnYNMw?e=0pll1P)
-- **Labels**: [Download here](https://purdue0-my.sharepoint.com/:f:/g/personal/lin1785_purdue_edu/EpQPBynMPlJDkdQ05Q-Ej5EBNzoiQIhZgFHLo6cbrnYNMw?e=0pll1P)
+- **Labels**: [Download here](https://purdue0-my.sharepoint.com/:f:/g/personal/lin1785_purdue_edu/Er6TieN3CHBMhjqCmJPJ0iEBxieyduxqI8DTpd4IzwUUBA?e=jvuqZY)
 
 
 ## ⚙️ Evaluation
